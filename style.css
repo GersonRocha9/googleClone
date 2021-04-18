@@ -55,19 +55,19 @@ body {
   background-color: honeydew;
 }
 
-.rightFooterItems {
-  justify-content: right;
-  text-align: right;
-  padding-right: 50px;
-  color: black;
-  position: relative;
-  display: block;
-}
-
-.rightFooterItems:first-of-type {
-  padding-left: 200px;
-}
-
 .footer {
   background-color: lightgray;
+  color: black;
+}
+
+a {
+  color: black;
+}
+
+#portugueseLink {
+  color: blue;
+}
+
+span + span {
+  margin-left: 15px;
 }
