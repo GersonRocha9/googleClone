@@ -10,9 +10,6 @@
   <p align="center">
     Google HomePage Clone Project for the Harvard edX CS50 Web Programming Program.
     <br />
-    
-
-# PROJECT STILL IN DEVELOPMENT!
 
 
 <!-- ABOUT THE PROJECT -->
