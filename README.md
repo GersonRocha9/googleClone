@@ -8,7 +8,7 @@
   <h3 align="center">Google Clone</h3>
 
   <p align="center">
-    Google HomePage Clone Project for the Harvard edX CS50 Web Programming Program.
+    Google Search, Google Image Search and Google Advanced Search Project for the Harvard edX CS50 Web Programming Program.
     <br />
     
 
