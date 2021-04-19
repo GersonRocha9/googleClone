@@ -10,15 +10,16 @@
   <p align="center">
     Google Search, Google Image Search and Google Advanced Search Project for the Harvard edX CS50 Web Programming Program.
     <br />
-    
-
-# PROJECT STILL IN DEVELOPMENT!
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+In this clone of the homepage, only HTML and CSS were used for the creation and stylization of the project.
+
+All buttons work with their respective official Google links, including the Google Search button and the I'm Feeling Lucky button.
+
+<img src="img/screenshot1.png" alt="Screenshot">
 
 
 ### Built With
