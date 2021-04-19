@@ -19,7 +19,7 @@ In this clone of the homepage, only HTML and CSS were used for the creation and 
 
 All buttons work with their respective official Google links, including the Google Search button and the I'm Feeling Lucky button.
 
-### SCREENSHOTS:
+<img src="img/screenshot1.png" alt="Screenshot">
 
 
 ### Built With
