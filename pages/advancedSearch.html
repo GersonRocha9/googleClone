@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Google Advanced Search</title>
     <link rel="shortcut icon" href="../assets/favicon.ico" type="../assets/favicon">
-    <link rel="stylesheet" href="../styles/style.css" />
+    <link rel="stylesheet" href="../styles/advancedSearchStyle.css" />
   </head>
   <body>
 
@@ -17,10 +17,17 @@
 
       
       <main class="content">
-        <img class="content__logo" src="../assets/logo.png" alt="Google Logo" />
-        <form action=”http://images.google.com/images” method="GET">
-          <input type="text" name="q" class="content__search">
-          <input type="submit" class="content__button" value="Google Advanced Search">
+
+        <h2>Advanced Search:</h2>
+        <form action="https://google.com/search" method="GET">
+          <span>Find pages with: </span>
+          <br>
+          <span class="content__condition">all these words: </span><input type="text" name="as_q" class="content__search"> <br>
+          <span class="content__condition">this exact word or phrase: </span><input type="text" name="as_epq" class="content__search"> <br>
+          <span class="content__condition">any of these words: </span><input type="text" name="as_oq" class="content__search"> <br>
+          <span class="content__condition">none of these words: </span><input type="text" name="as_eq" class="content__search">
+          <br><br> 
+          <input type="submit" class="content__button" value="Advanced Search">
         </form>
 
         <div class="content__offer">
