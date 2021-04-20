@@ -15,14 +15,16 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-In this clone of the homepage, only HTML and CSS were used for the creation and stylization of the project.
+In this project, 3 Google pages were created: Google Search, Google Images and Google Advanced Search (with 4 search conditions).
 
-All buttons work with their respective official Google links, including the Google Search button and the I'm Feeling Lucky button.
+All buttons and search conditions work as shown in the video below.
 
-<img src="./assets/screenshot1.png" alt="Screenshot">
+The creation of the project, markings and stylizations were done only with HTML and CSS.
+
+## YouTube Demo Video: <a href="https://youtu.be/uyajrpdpscw" align="center"> Google Search Pages Clone </a>
 
 
-### Built With
+## Built With
 
 * HTML
 * CSS
