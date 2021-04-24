@@ -42,4 +42,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Gerson Rocha - [LinkedIn](https://linkedin.com/in/gersonrocha) - gersonrocha9@gmail.com
 
-Project Link: [https://github.com/GersonRocha9/googleClone](https://github.com/GersonRocha9/googleClone)
+Project Link: [https://googlehomeclone.netlify.app/](https://googlehomeclone.netlify.app/)
